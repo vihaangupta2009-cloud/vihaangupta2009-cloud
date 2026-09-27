@@ -1,62 +1,66 @@
-# Hi, I'm Vihaan Gupta
+<div align="center">
 
-**Class 11 student · Founder of TRENVO · Learning computer science**
+# Vihaan Gupta
 
-I'm interested in how software turns ideas into useful products. I'm building my programming foundations while exploring AI, product development, and entrepreneurship.
+**Class 11 student · Founder of TRENVO**
+
+Learning computer science. Building with purpose.
+
+[About](#about-me) · [TRENVO](#featured-work) · [Learning roadmap](#roadmap)
+
+</div>
+
+---
 
 ## About Me
 
-I'm at the beginning of my computer science journey. Starting TRENVO has given me a reason to learn how products work beneath the surface, from the logic behind a feature to the decisions that make it useful.
+I'm a student exploring the intersection of **computer science, AI, and entrepreneurship**. I started TRENVO before developing a formal coding background. Now, I'm learning the foundations that will help me understand and build more of the technology behind my ideas.
 
-My goal is to become a thoughtful builder: someone who can understand a problem, write and explain the code, and improve a product through feedback. This profile will document that progress through projects, learning notes, and reflections.
+What interests me most is the full process: noticing a problem, deciding what is worth building, and improving a solution through code and feedback.
 
 ## Current Focus
 
-- Build a strong foundation in programming and computational thinking.
-- Develop consistent habits for practice, debugging, and documenting what I learn.
-- Connect technical learning with the questions I encounter while building TRENVO.
-- Explore AI with curiosity while developing the programming and mathematical foundations to understand it.
-
-## Building / Learning
-
-**Building:** TRENVO, my entrepreneurial project and an opportunity to connect product thinking with technical learning.
-
-**Learning:** Programming from the ground up, with an emphasis on understanding concepts and applying them in small, original projects.
-
-**Documenting:** As I complete work, I'll share what I built, how it works, what challenged me, and what I would improve. Public repositories will distinguish my own contributions from any tools, libraries, or assistance used.
+- **Foundations:** develop programming fluency and learn to break problems into manageable steps.
+- **Practice:** build small projects I can explain, debug, and improve.
+- **Product thinking:** connect what I learn to practical decisions while building TRENVO.
 
 ## Featured Work
 
 ### TRENVO
+*Founder · Product & entrepreneurship*
 
-**Role: Founder**
+TRENVO is where my interest in building products began. It is also a reason to deepen my technical skills: I want to understand how an idea becomes working software and contribute more directly to that process.
 
-TRENVO brings together my interests in entrepreneurship and product building. As I develop my technical skills, I want to take a deeper role in turning product ideas into working software.
+**Next to document:** the problem it addresses, my role, product decisions, and lessons learned.
 
-I plan to add a project overview covering the problem, intended users, my contributions, and lessons from development, along with a public demo when available.
+<!-- TRENVO: Add the verified public website or demo here when available. -->
 
-*Public project link: to be added.*
+## Building / Learning
+
+I'm learning programming from the ground up. This GitHub will grow into a record of that work:
+
+| What I'll share | What it will show |
+| --- | --- |
+| Original small projects | A practical problem, working code, and a clear explanation. |
+| Learning notes | Concepts in my own words, mistakes, and what helped them click. |
+| Problem-solving reflections | My reasoning, trade-offs, and improvements between attempts. |
+| TRENVO updates | Specific contributions and lessons from building a product. |
+
+For each project, I aim to explain **what I built, why I built it, and what I learned**, with credit for the resources and tools I use.
 
 ## Roadmap
 
-These are planned milestones, rather than completed qualifications.
+*Planned milestones — updated as I complete and document the work.*
 
-| Area | Next milestone |
-| --- | --- |
-| Computer science foundations | Work through CS50 and explain core concepts in my own words. |
-| Python | Learn the fundamentals and build small, original programs that solve everyday problems. |
-| C++ | Learn the language and standard library after establishing programming fundamentals. |
-| Data structures & algorithms | Study core structures, algorithmic patterns, and time complexity; explain why each solution works. |
-| Competitive programming | Begin regular practice and beginner contests, reviewing mistakes and alternative approaches. |
-| Product development | Apply what I learn to TRENVO and document my specific contributions. |
-| AI & research | Strengthen the prerequisites, read introductory research, and work toward a small reproducible investigation with clear limitations. |
+- [ ] **CS50:** develop a foundation in computational thinking and computer science.
+- [ ] **Python:** learn the fundamentals and build an original, useful project.
+- [ ] **C++:** learn the language, standard library, and memory basics.
+- [ ] **DSA:** study data structures, algorithms, and time complexity.
+- [ ] **Competitive programming:** start beginner contests and review my solutions.
+- [ ] **AI & research:** build the mathematical prerequisites, read introductory papers, and work toward a small reproducible investigation.
 
-I'll update this roadmap with links to completed work as I make progress.
+## Find Me
 
-## Links
+[GitHub](https://github.com/vihaangupta2009-cloud) · TRENVO and LinkedIn links will be added when available.
 
-- [GitHub](https://github.com/vihaangupta2009-cloud)
-- TRENVO: public link to be added
-- LinkedIn / portfolio: public links to be added
-
-<!-- Replace the plain-text placeholders above with verified public links when ready. -->
+<!-- LinkedIn / portfolio: Add verified public links here. -->
