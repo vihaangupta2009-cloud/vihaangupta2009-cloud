@@ -48,16 +48,6 @@ I'm learning programming from the ground up. This GitHub will grow into a record
 
 For each project, I aim to explain **what I built, why I built it, and what I learned**, with credit for the resources and tools I use.
 
-## Roadmap
-
-*Planned milestones — updated as I complete and document the work.*
-
-- [ ] **CS50:** develop a foundation in computational thinking and computer science.
-- [ ] **Python:** learn the fundamentals and build an original, useful project.
-- [ ] **C++:** learn the language, standard library, and memory basics.
-- [ ] **DSA:** study data structures, algorithms, and time complexity.
-- [ ] **Competitive programming:** start beginner contests and review my solutions.
-- [ ] **AI & research:** build the mathematical prerequisites, read introductory papers, and work toward a small reproducible investigation.
 
 ## Find Me
 
